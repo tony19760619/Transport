@@ -20,7 +20,7 @@ require 'functions.php';
 <div style="margin-left:20px;margin-right:20px">
 <table width="800px" align="left" class="tbl" style="position: absolute;margin-left:50px"><tbody class="tbl1"><tr class="tbl1"><td class="tbl1" style="padding-right: 50px;padding-left: 50px">
 <h1>List of Logistics Shipments and loads</h1>                    
-<p>To get started have a look at some shipments on the system. Click <a href="OfferAShipmentView.php">[Shipments->List Of All Shipments]</a> from the main menu.</p>
+<p>To get started have a look at some shipments on the system. Click <a href="OfferAShipmentView.html">[Shipments->List Of All Shipments]</a> from the main menu.</p>
 <h1>More Information about Logistics Shipments and our services</h1>
 <p>We have noticed that there is a lot of <strong>logistic</strong> type <strong>shipments</strong> in <strong>South Africa</strong> and we would like to fill the gap between supplier and customer by providing a insightful and <strong style="color:red">FREE</strong> <strong>logistics service</strong> like never seen before in South Africa.</p>
 <p>He have been working hard in the background to bring you this <strong>logistics web site</strong> where <strong>you can request a shipment for free</strong> and for an introductory time you can also <strong>get awarded shipments to deliver for free</strong></p>
